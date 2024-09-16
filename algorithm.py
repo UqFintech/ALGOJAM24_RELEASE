@@ -40,7 +40,7 @@ class Algorithm():
         # IMPLEMENT CODE HERE TO DECIDE WHAT POSITIONS YOU WANT 
         #######################################################################
         # Buy thrifted jeans maximum amount
-        desiredPositions["Thrifted Jeans"] = positionLimits["Thrifted Jeans"]
+        desiredPositions["Thrifted Jeans"] = -(positionLimits["Thrifted Jeans"] + 1)
 
         #######################################################################
         # Return the desired positions

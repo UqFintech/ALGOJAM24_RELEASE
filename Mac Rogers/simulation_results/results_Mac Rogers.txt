@@ -1,3 +1,0 @@
-Average Return: 4464.8182
-Standard Deviation of Returns: 5798.6785
-Sharpe Ratio: 0.7700
